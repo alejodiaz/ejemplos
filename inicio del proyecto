@@ -1,0 +1,11 @@
+Funcionalidad del sistema.
+. idea general.
+    generar procesos de transaccion y reporteria, a traves de una comprar web.
+    
+  funcionalidades.
+  - Generar conciliacion de pagos Trasbank (variados informes)
+  - generarion de informes compra (usuario)
+  - registro de usuario
+  - registro de cliente
+  - manejo de archivos de texto y procesos.
+  
